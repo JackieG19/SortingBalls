@@ -1,0 +1,9 @@
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/bin/Debug/netcoreapp2.0/Racks.deps.json
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/bin/Debug/netcoreapp2.0/Racks.dll
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/bin/Debug/netcoreapp2.0/Racks.pdb
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.csprojResolveAssemblyReference.cache
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.csproj.CoreCompileInputs.cache
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.AssemblyInfoInputs.cache
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.AssemblyInfo.cs
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.dll
+/Users/danielgutierrez/Desktop/SortingBalls/Racks/obj/Debug/netcoreapp2.0/Racks.pdb

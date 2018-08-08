@@ -1,0 +1,8 @@
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/obj/Debug/SortingBalls.csprojResolveAssemblyReference.cache
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/obj/Debug/SortingBalls.csproj.CoreCompileInputs.cache
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/bin/Debug/SortingBalls.dll
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/bin/Debug/SortingBalls.pdb
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/bin/Debug/nunit.framework.dll
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/bin/Debug/nunit.framework.xml
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/obj/Debug/SortingBalls.dll
+/Users/danielgutierrez/Desktop/SortingBalls/SortingBalls/obj/Debug/SortingBalls.pdb

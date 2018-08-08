@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingBalls", "SortingBalls\SortingBalls.csproj", "{47FF89B7-893A-4DE4-B298-584C722EB0F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racks", "Racks\Racks.csproj", "{862165B6-B8DD-41E2-8E13-41D26F78F814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FF89B7-893A-4DE4-B298-584C722EB0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FF89B7-893A-4DE4-B298-584C722EB0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FF89B7-893A-4DE4-B298-584C722EB0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FF89B7-893A-4DE4-B298-584C722EB0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862165B6-B8DD-41E2-8E13-41D26F78F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862165B6-B8DD-41E2-8E13-41D26F78F814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862165B6-B8DD-41E2-8E13-41D26F78F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862165B6-B8DD-41E2-8E13-41D26F78F814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
